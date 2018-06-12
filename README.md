@@ -11,7 +11,7 @@
 
 #macOS
 - decompress
-- copy flashfix_macos.sh on the desktop
+- copy flashfix_macos.sh on desktop
 - run terminal
 - cd Desktop/
 - sudo chmod u+x flashfix_macos.sh
