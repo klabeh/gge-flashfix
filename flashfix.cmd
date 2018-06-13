@@ -24,6 +24,7 @@ if errorlevel 1 goto restricted
       echo FERTIG ! DONE IN !
     )
   )
+  pause
   goto :eof
 
 :restricted
